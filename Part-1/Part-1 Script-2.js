@@ -1,0 +1,1 @@
+alert("I'm invoked!"); // There was error in the quotes
